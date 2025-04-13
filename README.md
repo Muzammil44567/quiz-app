@@ -27,9 +27,15 @@ quiz-app/
 🧠 Sample Questions Included
 "Which language was used to create Facebook?"
 
+
 "What is the capital of Japan?"
 
 "Which planet is known as the Red Planet?"
 
 ... and more!
+
+![image](https://github.com/user-attachments/assets/138e2c8e-cd9b-46ba-ba40-6202aeae4c2f)
+![image](https://github.com/user-attachments/assets/bba6f5f1-5e01-463d-b055-21e59b97e2f8)
+
+
 
